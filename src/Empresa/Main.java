@@ -48,7 +48,7 @@ public class Main {
                 }
 
             }catch (InputMismatchException e){
-                System.out.println("Debe ser un dijito");
+                System.out.println("Debe ser un numero");
                 entrada.next();
             }
 

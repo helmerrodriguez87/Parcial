@@ -27,10 +27,4 @@ public class LlamadasLocales extends LineasTelefonicas{
         return super.toString()+ " Llamadas Locales: " +
                 "\n Zona_rural = " + getZona_rural();
     }
-
-    public String llamadaEntrante1(){
-        Scanner entrada = new Scanner(System.in);
-        ;
-
-    }
 }
